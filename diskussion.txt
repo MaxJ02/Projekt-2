@@ -1,0 +1,18 @@
+1. Vad lärde ni er av projektet?
+
+Jag skulle säga att jag lärde mig ganska mycket om hur datorer fungerar men även såklart hur man hanterar arduinon i microchip.
+jag kände även att jag lärde mig mer om flanker etc.
+
+2. Vad var lätt/svårt?
+
+Som med all programmering så är det ganska svårt när det är ett helt nytt concept, men det blev desto enklare med hjälp av "dörr-projektet" vi gjorde innan detta,
+som var snarlikt. Bra att man får prova på och sen göra ett "riktigt" projekt av det. Även kul när det händer saker och det inte bara är kod som resulterar i utskrift i
+terminalen. 
+
+3. Vad hade ni velat ha lärt er mer innan projektet?
+
+Personligen det med flanker och olika io portar var lite förvirrande och svårt. Förståligt när du förklarar det men det var ändå lite svårt att få till.
+
+4. Övriga kommentarer?
+
+Kul projekt men som alltid lite svårt. Kul att få koppla och sedan se projektet komma till liv.
